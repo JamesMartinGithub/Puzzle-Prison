@@ -1,0 +1,4 @@
+pixelate shader: https://github.com/bzgeb/PixelatePostProcessingHDRP/tree/main
+pixel font:  https://www.dafont.com/visitor.font
+character gif trace: https://itch.io/profile/lefty-spurlock
+various images from google

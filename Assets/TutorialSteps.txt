@@ -1,0 +1,10 @@
+reach through open slit to unlock door - guard left keys in
+    -learn interacting
+find dropped paper with code on, use to unlock next door
+    -learn number pad
+hide from scripted guard in solitary room
+    -learn hiding and enemys vision
+open confiscated locker to get lockpick
+    -learn letter lock
+leave solitary by lockpicking door
+    -learn lockpicking
