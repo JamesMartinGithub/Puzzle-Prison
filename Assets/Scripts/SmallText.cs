@@ -10,11 +10,6 @@ public class SmallText : MonoBehaviour
     private int selected;
     private int selectedC;
     public float timeToWrite;
-    void Start()
-    {
-        //text = GameObject.Find("Small Text").GetComponent<Text>();
-        //RenderText(new string[4] { "This is a test yo! oooooooooo", "Second para!?", "", "Final para..." });
-    }
 
     private void RenderLine() {
         if (selectedC < paragraphs[selected].Length) {
