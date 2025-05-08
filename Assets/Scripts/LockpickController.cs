@@ -137,7 +137,7 @@ public class LockpickController : MonoBehaviour
                 pivotPosAdjust.localPosition = new Vector3(Mathf.SmoothStep(0, 74, ((currentAngle + 4) / -12.2f)), 0, 0);
             }
             else {
-                pivotPosAdjust.localPosition = new Vector3(0, 0, 0); //NEED TO GET RID OF THIS LINE
+                pivotPosAdjust.localPosition = new Vector3(0, 0, 0);
             }
         }
         if (lerpTimeP > 0) {
